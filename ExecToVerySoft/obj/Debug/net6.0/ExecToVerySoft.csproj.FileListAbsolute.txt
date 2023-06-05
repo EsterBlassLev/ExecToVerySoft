@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\bin\Debug\net6.0\ExecToVerySoft.exe
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\bin\Debug\net6.0\ExecToVerySoft.deps.json
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\bin\Debug\net6.0\ExecToVerySoft.runtimeconfig.json
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\bin\Debug\net6.0\ExecToVerySoft.dll
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\bin\Debug\net6.0\ExecToVerySoft.pdb
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\obj\Debug\net6.0\ExecToVerySoft.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\obj\Debug\net6.0\ExecToVerySoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\obj\Debug\net6.0\ExecToVerySoft.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\obj\Debug\net6.0\ExecToVerySoft.AssemblyInfo.cs
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\obj\Debug\net6.0\ExecToVerySoft.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\obj\Debug\net6.0\ExecToVerySoft.dll
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\obj\Debug\net6.0\refint\ExecToVerySoft.dll
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\obj\Debug\net6.0\ExecToVerySoft.pdb
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\obj\Debug\net6.0\ExecToVerySoft.genruntimeconfig.cache
+C:\Users\USER\Desktop\אסתי עבודה\ExecToVerySoft\ExecToVerySoft\obj\Debug\net6.0\ref\ExecToVerySoft.dll
